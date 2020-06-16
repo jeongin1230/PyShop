@@ -5,7 +5,7 @@ from django.shortcuts import render
 # /products -> index
 # Uniform Resource Locator (Address)
 def index(request):
-    return HttpResponse('Hello World')
+    return HttpResponse('Hello World213')
 
 
 def new(request):
